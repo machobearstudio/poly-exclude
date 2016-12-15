@@ -1,0 +1,25 @@
+{
+  "name": "exclude",
+  "version": "1.0.0",
+  "description": "Object transformer: excludes selected fields from an object",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.machobear.ca:platform/exclude.git"
+  },
+  "keywords": [
+    "object",
+    "transformer",
+    "select",
+    "pluck"
+  ],
+  "author": "Machobear Studios",
+  "license": "SEE LICENSE IN LICENSE",
+  "dependencies": {
+    "curry": "^1.2.0",
+    "poly-filter": "^1.0.1"
+  }
+}
