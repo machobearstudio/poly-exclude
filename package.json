@@ -4,7 +4,7 @@
   "description": "Polymirphic data transformer: excludes selected fields from an object or array",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -17,9 +17,12 @@
     "pluck"
   ],
   "author": "Machobear Studios",
-  "license": "SEE LICENSE IN LICENSE",
+  "license": "Apache-2.0",
   "dependencies": {
     "curry": "^1.2.0",
     "poly-filter": "^1.0.2"
+  },
+  "devDependencies": {
+    "jest": "^18.1.0"
   }
 }
