@@ -14,6 +14,11 @@ It's a common task in data transformation pipelines to remove certain keys from 
 npm install poly-exclude
 ```
 
+## Testing
+```
+npm test
+```
+
 ## Usage
 
 ```javascript
