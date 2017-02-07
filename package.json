@@ -16,7 +16,7 @@
     "select",
     "pluck"
   ],
-  "author": "Machobear Studios",
+  "author": "Machobear Studio Inc.",
   "license": "Apache-2.0",
   "dependencies": {
     "curry": "^1.2.0",
