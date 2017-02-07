@@ -42,5 +42,3 @@ console.log(removeB(object)); // => { a: 100, c: 'blah, blah' }
 var remove2 = exclude(2);
 console.log(remove2(array)); // => [100, 'blah, blah']
 ```
-
-## License
