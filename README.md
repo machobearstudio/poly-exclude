@@ -35,7 +35,7 @@ var array = [
 console.log(exclude(['a', 'c'], object)); // => { b: 200 }
 console.log(exclude([0, 2], array)); // => [200]
 
-// Partial application (not relly polymorphic)
+// Partial application (not really polymorphic)
 var removeB = exclude('b');
 console.log(removeB(object)); // => { a: 100, c: 'blah, blah' }
 
