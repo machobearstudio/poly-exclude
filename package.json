@@ -1,7 +1,7 @@
 {
   "name": "poly-exclude",
   "version": "1.0.2",
-  "description": "Polymorphic data transformer: excludes selected fields from an object or array",
+  "description": "Polymorphic data transformer: excludes provided fields from an object or array",
   "main": "index.js",
   "scripts": {
     "test": "jest"
