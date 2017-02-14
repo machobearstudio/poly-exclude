@@ -1,6 +1,6 @@
 {
   "name": "poly-exclude",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Polymorphic data transformer: excludes provided fields from an object or array",
   "main": "index.js",
   "scripts": {
