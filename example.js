@@ -20,5 +20,5 @@ console.log(exclude([0, 2], array)); // => [200]
 var removeB = exclude('b');
 console.log(removeB(object)); // => { a: 100, c: 'blah, blah' }
 
-var remove2 = exclude(1);
-console.log(remove2(array)); // => [100, 'blah, blah']
+var remove1 = exclude(1);
+console.log(remove1(array)); // => [100, 'blah, blah']
